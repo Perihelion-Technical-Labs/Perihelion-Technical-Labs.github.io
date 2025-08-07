@@ -1,4 +1,6 @@
 ---
 layout: project-dawnbreak
-permalink: 
+permalink: /projects/project-dawnbreak/
+redirect-from:
+  
 ---
