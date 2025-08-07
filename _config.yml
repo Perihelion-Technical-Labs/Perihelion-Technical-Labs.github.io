@@ -31,8 +31,9 @@ github_username: jekyll
 sass:
   sass_dir: _sass
   style: compressed
-include: ["pages"]
-include: ["projects"]
+include:
+  - "pages"
+  - "projects"
 # theme: minima
 plugins:
   - jekyll-feed
