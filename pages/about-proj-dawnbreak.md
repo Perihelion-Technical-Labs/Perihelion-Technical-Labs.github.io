@@ -1,6 +1,8 @@
 ---
 layout: project-dawnbreak
 permalink: /projects/project-dawnbreak/
-redirect-from:
-  
+redirect_from:
+  - /projects/project-dawnbreak/about
 ---
+
+
